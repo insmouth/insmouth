@@ -3,9 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Finding me a new job
-- 🌱 I’m currently learning ... C# 
-- 👯 I’m looking to collaborate on ... C#
+- 🔭 I’m currently working on ... CyberArk privileged access management solution
+- 🌱 I’m currently learning ... C#, CyberArk, Python
+- 👯 I’m looking to collaborate on ... CyberArk, C#, PowerShell
 - 🤔 I’m looking for help with ... Python
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Email](mailto:pdimitrov@windowslive.com)
