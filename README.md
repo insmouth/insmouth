@@ -3,11 +3,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... CyberArk privileged access management solution
-- 🌱 I’m currently learning ... C#, CyberArk, Python
+- 🔭 I’m currently working on ... CyberArk PAM Intergrations
+- 🌱 I’m currently learning ... C#, Python, Javascript, React
 - 👯 I’m looking to collaborate on ... CyberArk, C#, PowerShell
 - 🤔 I’m looking for help with ... Python
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Email](mailto:pdimitrov@windowslive.com)
+- 📫 How to reach me: ...You don't
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I had a rabbit called Winkel
